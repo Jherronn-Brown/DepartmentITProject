@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">IT_DEPARTMENT</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="code">Code</string>
+    <string name="_0">0</string>
+    <string name="title">Title</string>
+    <string name="Description">Description</string>
+    <string name="pre_requisites">Prerequisites</string>
+    <string name="social_media">Social Media</string>
+    <string name="connect_with_us_on_social_media">Connect with us on social media</string>
+    <string name="Social_media">Social Media</string>
+    <string name="course_information">Course Information</string>
+    <string name="faculty_information">Faculty Information</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="faculty_staff_directory">Faculty/Staff Directory</string>
+    <string name="courses">Courses</string>
+    <string name="admissions">Admissions</string>
+    <string name="entry_requirements_for_jamaican_students">Entry requirements for jamaican students</string>
+    <string name="admission1">Admission1</string>
+    <string name="admission2">Admission2</string>
+    <string name="admission3">Admission3</string>
+    <string name="entry_requirements_for_international_students">Entry requirements for international students</string>
+    <string name="apply">Apply</string>
+    <string name="staff_directory">Staff Directory</string>
+    <string name="connect_with_us">Connect with us</string>
+</resources>
